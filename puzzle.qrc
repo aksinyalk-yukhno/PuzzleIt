@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>background1.jpg</file>
+        <file>malbert.jpg</file>
+        <file>icon.png</file>
+        <file>info2.png</file>
+        <file>background3.jpg</file>
+        <file>background2.jpg</file>
+        <file>example3.jpg</file>
+        <file>example2.jpg</file>
+        <file>example.jpg</file>
+        <file>backgroundexamplescomplete.jpg</file>
+        <file>examplecompletename1.png</file>
+        <file>examplecompletename2.png</file>
+        <file>1img.png</file>
+        <file>2img.png</file>
+        <file>examplecomplete1.jpg</file>
+        <file>examplecomplete2.jpg</file>
+        <file>examplecomplete3.jpg</file>
+        <file>backgroundhelp1.jpg</file>
+        <file>backgroundhelp2.jpg</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
